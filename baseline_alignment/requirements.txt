@@ -1,0 +1,14 @@
+mcp-server-git
+strands-agents
+strands-agents-tools 
+strands-agents-builder
+strands-agents[anthropic]
+mcp[cli]
+strands-agents[a2a]
+fastapi
+strands-agents-tools[a2a_client]
+matplotlib
+langfuse
+ragas
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
