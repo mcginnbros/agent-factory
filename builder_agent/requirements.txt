@@ -1,0 +1,10 @@
+# Builder Agent specific dependencies
+# Common dependencies are in the base image
+
+# Add any builder-specific packages here
+# Most dependencies are already in base image:
+# - strands-agents
+# - strands-agents-tools
+# - bedrock-agentcore
+# - boto3
+# - playwright
